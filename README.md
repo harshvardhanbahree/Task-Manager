@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file for your Task Manager app created using Node.js and Express:
-
----
-
 # Task Manager App
 
 This is a simple Task Manager application built with Node.js and Express. It provides a RESTful API for managing tasks, allowing you to create, retrieve, update, and delete tasks.
